@@ -21,6 +21,13 @@ i am by no means experienced, having only used it seriously the past few months.
 i like the penguin\
 its my favor ite
 
+### video games
+some of my favorite video games include little nightmares 1 & 2 and persona 5.\
+i was a former genshin player but i fortunately escaped mihoyo's grasp 
+
+### music
+i like listening to video game soundtracks, but bands like sir chloe are good aswell.
+
 ### sorting algorithms
 some people may argue that they are boring but i argue that some people are wrong\
 what sorting algorithm is your favorite says a lot about you as a person.\
