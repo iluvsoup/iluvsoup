@@ -43,9 +43,9 @@ i had absolutely no experience, but after a while i got a hang of it. i still us
 
 i like recreating small games like snake or minesweeper in the console, keeps me entertained in school.\
 i am most experienced in lua, but i know a fair bit of python and i know how to output hello world in javascipt.\
-languages i want to learn include Rust (i like the crab), javascript, c++, c, c# and maybe even swift for ios apps in case i ever want to do that.
+languages i want to learn include rust (i like the crab), javascript, c++, c, c# and maybe even swift for ios apps in case i ever want to do that.
 
-i absolutely DESPISE web, sorry nerds\
+i absolutely DESPISE web dev. i'm not much of a UI guy, sorry nerds\
 i also do not like using 1000000 frameworks and libraries just to print hello world *cough cough javascript cough cough python*
 
 ### python (hating on it)
@@ -64,6 +64,8 @@ also like why🤔🤔 is it called python like omg python snake is venomous mean
 | blender                   | 4 months             |
 | making ice cream          | 3 months             |
 | python                    | i dont use python    |
+
+## some cool things ive made
 
 ## contact
 - iluvsoup#6826 on discord
