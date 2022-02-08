@@ -23,10 +23,9 @@ its my favor ite
 
 ### video games
 some of my favorite video games include little nightmares 1 & 2 and persona 5.\
-i was a former genshin player but i fortunately escaped mihoyo's grasp 
 
 ### music
-i like listening to video game soundtracks, but bands like sir chloe are good aswell.
+i like listening to video game soundtracks, but bands like sir chloe are good aswell😤😤
 
 ### sorting algorithms
 some people may argue that they are boring but i argue that some people are wrong\
@@ -46,21 +45,40 @@ i've been interested in it ever since i was like 7 years old, although at that t
 
 at around 9 i discovered roblox studio. i had already been playing roblox for a while but i had never tried making a game of my own.\
 roblox studio uses lua-u (lua with some cool features), this was a good introduction for me to *"real"* programming languages.
-i had absolutely no experience, but after a while i got a hang of it. i still use roblox studio to make stuff today, but i'm not that interested in making games. i much  prefer making cool projects with algorithms such as marching cubes or just messing around with api's.
+i had absolutely no experience, but after a while i got a hang of it. i still use roblox studio to make stuff today, but i'm not that interested in making games. i much  prefer making cool projects with algorithms such as marching cubes or just messing around with apis.
 
 i like recreating small games like snake or minesweeper in the console, keeps me entertained in school.\
 i am most experienced in lua, but i know a fair bit of python and i know how to output hello world in javascipt.\
-languages i want to learn include rust (i like the crab), javascript, c++, c, c# and maybe even swift for ios apps in case i ever want to do that.
+languages i want to learn include rust (i like the crab), javascript, c and maybe some go
 
-i absolutely DESPISE web dev. i'm not much of a UI guy, sorry nerds\
-i also do not like using 1000000 frameworks and libraries just to print hello world *cough cough javascript cough cough python*
+i do not like web dev, ui and that kinda stuff is really not my thing.
 
 ### python (hating on it)
 i hate python\
 fight me
 
+pov: python devs
+```python
+import numpy
+import pygame
+import scipy
+import django
+import flask
+import json
+import discord
+import random
+import urllib
+import threading
+import *
+import time
+import math
+import datetime
+
+print("hello word")
+```project size: 532 megabytes
+
 python has no use except for blender plugins\
-fr fr bogosort in lua can sort an array with a length of 10^10 instantly while python never even finishes 🙄🙄🙄 trash language\
+bogosort in any other language can sort an array with a length of 10^10 instantly while python never even finishes 🙄🙄🙄 trash language\
 also like why🤔🤔 is it called python like omg python snake is venomous meaning that python [kills](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Python_molurus_molurus_2.jpg/640px-Python_molurus_molurus_2.jpg) people🧐🧐
 
 ## experience
