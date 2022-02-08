@@ -75,7 +75,8 @@ import math
 import datetime
 
 print("hello word")
-```project size: 532 megabytes
+```
+project size: 532 megabytes
 
 python has no use except for blender plugins\
 bogosort in any other language can sort an array with a length of 10^10 instantly while python never even finishes 🙄🙄🙄 trash language\
