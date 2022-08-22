@@ -1,4 +1,6 @@
-official python hate page
+i like soup
+
+https://iluvsoup.com
 
 ## contact
 - iluvsoup#6826 on discord
