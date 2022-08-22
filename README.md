@@ -1,4 +1,5 @@
-i like soup
+swedish soup enjoyer
+i occasionally make stuff
 
 https://iluvsoup.com
 
