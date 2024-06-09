@@ -1,6 +1,4 @@
-14yo swedish soup enjoyer\
-I occasionally make stuff\
-I love yorushika\
+14\
 soupOS coming year 2078
 
 ~~https://iluvsoup.com~~
